@@ -41,7 +41,6 @@ for i in range(10):
 	images[i].save(f"qr{i}.jpg")
 ```
 
-And similar the next 9. We have all the QR codes and we can see their content.
 
 ![image](https://user-images.githubusercontent.com/62060867/134877447-034b1d88-bb11-47ad-9f30-246a0aff1d0b.png)
 
