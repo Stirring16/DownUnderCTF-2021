@@ -2,6 +2,17 @@
 
 | Challenge | Category | 
 | ----------- | ----------- | 
+| [flag loader](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Reverse/flag%20loader/readme.md) | RE |
+| [Inside Out](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Inside%20Out/readme.md) | WEB |
+| [Cowboy World](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Cowboy%20World/readme.md) | WEB |
+| [Chainreaction](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Chainreaction/readme.md) | WEB |
+| [deadcode](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Deadcode/readme.md) | PWN |
+| [Leaking like a sieve](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Leaking%20like%20a%20sieve/readme.md) | PWN |
+| [outBackdoor](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/outBackdoor/readme.md) | PWN |
+| [babygame](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/babygame/readme.md) | PWN |
+| [Substitution Cipher I](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20I/readme.md) | Crypto |
+| [Substitution Cipher II](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20II/readme.md) | Crypto |
+| [Break Me!](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Break%20Me!/readme.md) | Crypto |
 | [General Skills Quiz](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/General%20Skills%20Quiz/readme.md) | MISC |
 | [rabbit](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/rabbit/readme.md) | MISC |
 | [Builder](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/Builder/readme.md) | MISC |
