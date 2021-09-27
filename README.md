@@ -20,7 +20,6 @@
 | [Not as Bad Bucket](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Cloud/Not%20as%20Bad%20Bucket/readme.md) | Cloud |
 | [Whale Blog](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Cloud/Whale%20Blog/readme.md) | Cloud |
 | [Lost n Found](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Cloud/Lost%20n%20Found/readme.md) | Cloud |
-| [Retro!](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Forensics/Retro!/readme.md) | Forensics | 
 | [How to pronounce GIF](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Forensics/How%20to%20pronounce%20GIF/readme.md) | Forensics |
 | [Do the loop!](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Forensics/Do%20the%20loop!/readme.md) | Forensics | 
 | [That's Not My Name](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Forensics/That's%20Not%20My%20Name/readme.md) | Forensics | 
