@@ -2,7 +2,6 @@
 
 | Challenge | Category | 
 | ----------- | ----------- | 
-| [flag loader](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Reverse/flag%20loader/readme.md) | RE |
 | [Inside Out](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Inside%20Out/readme.md) | WEB |
 | [Cowboy World](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Cowboy%20World/readme.md) | WEB |
 | [Chainreaction](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Chainreaction/readme.md) | WEB |
