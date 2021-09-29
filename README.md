@@ -2,9 +2,6 @@
 
 | Challenge | Category | 
 | ----------- | ----------- | 
-| [Inside Out](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Inside%20Out/readme.md) | WEB |
-| [Cowboy World](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Cowboy%20World/readme.md) | WEB |
-| [Chainreaction](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/WEB/Chainreaction/readme.md) | WEB |
 | [deadcode](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Deadcode/readme.md) | PWN |
 | [Leaking like a sieve](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Leaking%20like%20a%20sieve/readme.md) | PWN |
 | [outBackdoor](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/outBackdoor/readme.md) | PWN |
