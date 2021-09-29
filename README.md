@@ -5,7 +5,6 @@
 | [deadcode](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Deadcode/readme.md) | PWN |
 | [Leaking like a sieve](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/Leaking%20like%20a%20sieve/readme.md) | PWN |
 | [outBackdoor](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/outBackdoor/readme.md) | PWN |
-| [babygame](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/babygame/readme.md) | PWN |
 | [Substitution Cipher I](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20I/readme.md) | Crypto |
 | [Substitution Cipher II](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20II/readme.md) | Crypto |
 | [General Skills Quiz](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/General%20Skills%20Quiz/readme.md) | MISC |
