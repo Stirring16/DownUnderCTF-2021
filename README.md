@@ -11,7 +11,6 @@
 | [babygame](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/PWN/babygame/readme.md) | PWN |
 | [Substitution Cipher I](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20I/readme.md) | Crypto |
 | [Substitution Cipher II](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Substitution%20Cipher%20II/readme.md) | Crypto |
-| [Break Me!](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/Crypto/Break%20Me!/readme.md) | Crypto |
 | [General Skills Quiz](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/General%20Skills%20Quiz/readme.md) | MISC |
 | [rabbit](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/rabbit/readme.md) | MISC |
 | [Builder](https://github.com/Stirring16/DownUnderCTF-2021/blob/main/MISC/Builder/readme.md) | MISC |
