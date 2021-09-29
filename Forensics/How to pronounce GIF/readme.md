@@ -18,7 +18,7 @@ Now I can run this command to recreate each QR code:
 
 
 
-> convert frame_010_delay-0.05s.gif frame_020_delay-0.05s.gif frame_030_delay-0.05s.gif frame_040_delay-0.05s.gif frame_050_delay-0.05s.gif frame_060_delay-0.05s.gif > > frame_070_delay-0.05s.gif frame_080_delay-0.05s.gif frame_090_delay-0.05s.gif frame_100_delay-0.05s.gif frame_110_delay-0.05s.gif -append QRcode1.png ```
+> convert frame_010_delay-0.05s.gif frame_020_delay-0.05s.gif frame_030_delay-0.05s.gif frame_040_delay-0.05s.gif frame_050_delay-0.05s.gif frame_060_delay-0.05s.gifframe_070_delay-0.05s.gif frame_080_delay-0.05s.gif frame_090_delay-0.05s.gif frame_100_delay-0.05s.gif frame_110_delay-0.05s.gif -append QRcode1.png 
 
 
 ![image](https://user-images.githubusercontent.com/62060867/134876663-4c346e75-1304-4b89-9c4e-2253d3830183.png)
